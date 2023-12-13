@@ -1,0 +1,2 @@
+recursive-include sales_tax *.py
+recursive-exclude *__pycache__*
