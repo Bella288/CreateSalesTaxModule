@@ -8,12 +8,16 @@ To use the Sales Tax Calculator package, simply install it using pip:
 pip install sales-tax-calculator
 
 Then, import the package and call the `calculate_tax` function:
-from sales_tax import calculate_tax
 
-price = 100
-state = 'CA'
-tax_rate = calculate_tax(price, state)
-print(tax_rate) # Output: 0.08
+`from sales_tax import calculate_tax`
+
+`price = 100`
+
+`state = 'CA'`
+
+`tax_rate = calculate_tax(price, state)`
+
+`print(tax_rate)` # Output: 0.08
 
 ## Installation
 
@@ -21,6 +25,7 @@ You can install the Sales Tax Calculator package using pip:
 pip install sales-tax-calculator
 
 Alternatively, you can download the latest release from GitHub and install it manually:
+
 $ wget https://github.com/Bella288/CreateSalesTaxModule/archive/refs/tags/v1.0.tar.gz
 
 $ tar xzf v1.0.tar.gz
