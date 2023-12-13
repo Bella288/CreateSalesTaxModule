@@ -6,7 +6,7 @@ setup(
     description='Calculate sales tax for a given price and state',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/Bella288/SalesTax',
+    url='https://github.com/Bella288/CreateSalesTaxModule',
     author='Bella288',
     author_email='bella288@gmail.com',
     license='MIT',
