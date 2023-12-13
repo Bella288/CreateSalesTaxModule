@@ -21,7 +21,7 @@ You can install the Sales Tax Calculator package using pip:
 pip install sales-tax-calculator
 
 Alternatively, you can download the latest release from GitHub and install it manually:
-$ wget https://github.com/Bella288/SalesTax/archive/refs/tags/v1.0.tar.gz
+$ wget https://github.com/Bella288/CreateSalesTaxModule/archive/refs/tags/v1.0.tar.gz
 
 $ tar xzf v1.0.tar.gz
 
